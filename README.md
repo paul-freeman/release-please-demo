@@ -7,3 +7,4 @@ Dummy repo to demonstrate the functionality of Release Please
 - Fixed a bug
 - Added that new feature
 - Fixed another bug
+- Added the next feature
