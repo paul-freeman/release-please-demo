@@ -5,3 +5,4 @@ Dummy repo to demonstrate the functionality of Release Please
 ## Things that have been done
 
 - Fixed a bug
+- Added that new feature
